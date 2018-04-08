@@ -15,8 +15,9 @@ Plugin URI: http://www.bestlocalseotools.com
 Description: This is the full version. Best Local SEO Tools is a professionally search engine optimized portfolio plugin that helps you rank in search engines for all the cities that you serve while showcasing your work! By activating/using this, you are also subscribing your admin email to our newsletter and adding credits links which can be opted-out of/turned off later.
 Version: 1000.0
 Author URI: https://profiles.wordpress.org/benfremer
-*/
 
+*/
+ 
 function lsp_get_abbreviation($state){
   $state = ucwords($state);
   if($state == "Alabama") return "AL";
@@ -34,9 +35,9 @@ function lsp_get_abbreviation($state){
   if($state == "Idaho") return "ID";
   if($state == "Illinois") return "IL";
   if($state == "Indiana") return "IN";
-  if($state == "Iowa") return "IA";
-  if($state == "Kansas") return "KS";
-  if($state == "Kentucky") return "KY";
+  if($state == "Iowa") return "IA"; 
+  if($state == "Kansas") return "KS"; 
+  if($state == "Kentucky") return "KY"; 
   if($state == "Louisiana") return "LA";
   if($state == "Maine") return "ME";
   if($state == "Maryland") return "MD";
