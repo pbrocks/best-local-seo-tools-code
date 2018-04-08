@@ -1,0 +1,162 @@
+
+Strict Standards: Declaration of ACF_Walker_Taxonomy_Field_Checklist::start_el() should be compatible with Walker::start_el(&$output, $object, $depth = 0, $args = Array, $current_object_id = 0) in /mnt/target06/848780/www.mopdog.com/web/content/wp-content/plugins/advanced-custom-fields-taxonomy-field-add-on/taxonomy-field.php on line 513
+
+Strict Standards: Declaration of ACF_Walker_Taxonomy_Field_List::start_el() should be compatible with Walker::start_el(&$output, $object, $depth = 0, $args = Array, $current_object_id = 0) in /mnt/target06/848780/www.mopdog.com/web/content/wp-content/plugins/advanced-custom-fields-taxonomy-field-add-on/taxonomy-field.php on line 557
+
+Notice: wp_enqueue_script was called incorrectly. Scripts and styles should not be registered or enqueued until the wp_enqueue_scripts, admin_enqueue_scripts, or login_enqueue_scripts hooks. Please see Debugging in WordPress for more information. (This message was added in version 3.3.0.) in /mnt/target06/848780/www.mopdog.com/web/content/wp-includes/functions.php on line 4139
+
+Notice: Undefined index: lsp_update2 in /mnt/target06/848780/www.mopdog.com/web/content/wp-content/plugins/bestlocalseotools/localseoportfolio.php on line 1887
+
+Notice: Undefined index: lsp_update5 in /mnt/target06/848780/www.mopdog.com/web/content/wp-content/plugins/bestlocalseotools/localseoportfolio.php on line 2211
+
+Notice: Undefined index: lsp_update3 in /mnt/target06/848780/www.mopdog.com/web/content/wp-content/plugins/bestlocalseotools/localseoportfolio.php on line 2343
+
+Notice: The called constructor method for WP_Widget in SimpleSectionNav is deprecated since version 4.3.0! Use
+
+__construct()
+
+instead. in /mnt/target06/848780/www.mopdog.com/web/content/wp-includes/functions.php on line 3894
+
+Notice: Undefined variable: matches in /mnt/target06/848780/www.mopdog.com/web/content/wp-content/plugins/bestlocalseotools/localseoportfolio.php on line 1335
+
+Notice: Undefined variable: matches in /mnt/target06/848780/www.mopdog.com/web/content/wp-content/plugins/bestlocalseotools/localseoportfolio.php on line 1335
+
+Notice: Undefined index: lsp_postcontent in /mnt/target06/848780/www.mopdog.com/web/content/wp-content/plugins/bestlocalseotools/localseoportfolio.php on line 1804
+
+Notice: Undefined index: lsp_settings in /mnt/target06/848780/www.mopdog.com/web/content/wp-content/plugins/bestlocalseotools/localseoportfolio.php on line 1842
+
+Notice: Undefined index: lsp_update in /mnt/target06/848780/www.mopdog.com/web/content/wp-content/plugins/bestlocalseotools/localseoportfolio.php on line 2544
+
+Notice: Undefined index: lsp_pageinfo in /mnt/target06/848780/www.mopdog.com/web/content/wp-content/plugins/bestlocalseotools/localseoportfolio.php on line 2700
+
+WordPress database error: [Table '848780_mopdog.wp_lsp_redirects' doesn't exist]
+SELECT new_url FROM wp_lsp_redirects WHERE old_url = 'lspredirect_http://mopdog.com'
+
+Notice: Undefined variable: results in /mnt/target06/848780/www.mopdog.com/web/content/wp-content/plugins/bestlocalseotools/localseoportfolio.php on line 69
+
+Notice: Undefined index: portfolioquery in /mnt/target06/848780/www.mopdog.com/web/content/wp-content/plugins/bestlocalseotools/localseoportfolio.php on line 1366
+
+Notice: Trying to get property of non-object in /mnt/target06/848780/www.mopdog.com/web/content/wp-content/plugins/bestlocalseotools/localseoportfolio.php on line 2979
+We are an Atlanta-based creative and marketing firm
+
+Print
+
+Web Design
+
+​<H1>
+
+​<P>
+
+​</P>
+
+​</H1>
+
+Social Media
+
+Video & Animation Production
+dedicated to finding solutions for our clients’ marketing, advertising and communication challenges on a local, national and global level.
+
+​From ads to brochures, we can help you catch any potential customer’s eye.
+
+​
+
+​
+
+​Let us help you build and brand the perfect website.
+
+​
+
+​
+
+​Keep your clients and customers up to date with everything you do.
+
+​
+
+​
+
+​Put together videos that are both professional and fun.
+
+​
+
+​
+
+​<img src="http://mopdog.com/images/mopdog-logo.png" class="biglogo"/>
+Phone: 678-737-7333
+Follow Us:
+
+Notice: Undefined index: lsp_postcontent in /mnt/target06/848780/www.mopdog.com/web/content/wp-content/plugins/bestlocalseotools/localseoportfolio.php on line 1804
+
+Notice: Undefined index: lsp_settings in /mnt/target06/848780/www.mopdog.com/web/content/wp-content/plugins/bestlocalseotools/localseoportfolio.php on line 1842
+
+Notice: Undefined index: lsp_update in /mnt/target06/848780/www.mopdog.com/web/content/wp-content/plugins/bestlocalseotools/localseoportfolio.php on line 2544
+
+Notice: Undefined index: lsp_pageinfo in /mnt/target06/848780/www.mopdog.com/web/content/wp-content/plugins/bestlocalseotools/localseoportfolio.php on line 2700
+
+Notice: Undefined index: lsp_postcontent in /mnt/target06/848780/www.mopdog.com/web/content/wp-content/plugins/bestlocalseotools/localseoportfolio.php on line 1804
+
+Notice: Undefined index: lsp_settings in /mnt/target06/848780/www.mopdog.com/web/content/wp-content/plugins/bestlocalseotools/localseoportfolio.php on line 1842
+
+Notice: Undefined index: lsp_update in /mnt/target06/848780/www.mopdog.com/web/content/wp-content/plugins/bestlocalseotools/localseoportfolio.php on line 2544
+
+Notice: Undefined index: lsp_pageinfo in /mnt/target06/848780/www.mopdog.com/web/content/wp-content/plugins/bestlocalseotools/localseoportfolio.php on line 2700
+
+    Services
+    Case Studies
+    The Firm
+    Blog
+    Good Dog
+    Raising Help
+    Contact
+
+Who We Are
+
+We have a funny name, but we’re seriously creative. Our full-service agency provides strategic solutions for our clients’ marketing, advertising and communication challenges.
+
+We have the answers and do doggone great work. And, we go one step further by building a relationship with our clientele.
+What We Do
+design
+
+We make your company stand out with unique collateral, bold designs and everything else.
+LEARN MORE
+development
+
+Let us help you launch the next great application or responsive website. It’s all taken care of in-house.
+LEARN MORE
+multimedia
+
+Videos and illustrations are right up our alley. We produce them from start to finish; you sit back and enjoy the show.
+LEARN MORE
+strategy
+
+We know how to craft a concept and develop a strategic package in all arenas, from print collateral to interactive web to social media messaging.
+LEARN MORE
+communication
+
+Crafting a message is one of our strongest traits. We help create content for all arenas, from press releases to social media messaging.
+LEARN MORE
+Trends to Follow
+Read More Blogs »
+
+Notice: Undefined index: lsp_postcontent in /mnt/target06/848780/www.mopdog.com/web/content/wp-content/plugins/bestlocalseotools/localseoportfolio.php on line 1804
+
+Notice: Undefined index: lsp_settings in /mnt/target06/848780/www.mopdog.com/web/content/wp-content/plugins/bestlocalseotools/localseoportfolio.php on line 1842
+
+Notice: Undefined index: lsp_update in /mnt/target06/848780/www.mopdog.com/web/content/wp-content/plugins/bestlocalseotools/localseoportfolio.php on line 2544
+
+Notice: Undefined index: lsp_pageinfo in /mnt/target06/848780/www.mopdog.com/web/content/wp-content/plugins/bestlocalseotools/localseoportfolio.php on line 2700
+Highlight Common Information in Fun Ways
+
+READ MORE
+Stop and Smell the Rosé
+
+READ MORE
+The Joy of Being a Father
+
+READ MORE
+Technology Through the Ages: A Survey
+
+READ MORE
+Phone: 678-737-7333 Coming to Visit? Get Directions Here We Have a Newsletter! Click to Subscribe Follow Us:
+
+
+You can see who we've worked with near you that you might know for a reference by browsing our hierarchical portfolio directory below. For web design, cities we serve include Acworth, Adairsville, Alpharetta, Atlanta, Auburn, Austell, Avondale Estates, Belvedere Park, Berkeley Lake, Bonanza, Brookhaven, Buford, Candler-McAfee, Canton, Cartersville, Chamblee, Chattahoochee Hills, Clarkston, College Park, Conley, Conyers, Covington, Cumming, Dacula, Dahlonega, Dallas, Dawsonville, Decatur, Doraville, Douglasville, Druid Hills, Duluth, Dunwoody, East Point, Euharlee, Fair Oaks, Fairburn, Fayetteville, Flowery Branch, Forest Park, Gainesville, Grayson, Gresham Park, Hapeville, Hiram, Holly Springs, Irondale, Jasper, Johns Creek, Jonesboro, Kennesaw, Lake City, Lakeview Estates, Lawrenceville, Lilburn, Lithia Springs, Lithonia, Loganville, Mableton, Marietta, McDonough, Milton, Morrow, Mountain Park, Norcross, North Decatur, North Druid Hills, Oakwood, Oxford, Palmetto, Panthersville, Powder Springs, Redan, Riverdale, Roswell, Rydal, Sandy Springs, Scottdale, Smyrna, Snellville, Stockbridge, Stone Mountain, Sugar Hill, Suwanee, Tucker, Tyrone, Union City, Villa Rica, Vinings, and Woodstock.

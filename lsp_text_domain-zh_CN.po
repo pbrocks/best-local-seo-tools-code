@@ -1,0 +1,876 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-10-14 10:31-0400\n"
+"PO-Revision-Date: 2015-10-14 10:31-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ../Desktop/lspsalessiteaws/wp-content/plugins/"
+"localseoportfolio\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: localseoportfolio.php\n"
+
+#: localseoportfolio.php:180
+msgid ""
+"DO NOT DELETE OR RENAME THIS please - It is required for the Local SEO "
+"Portfolio Plugin to work and is otherwise hidden!"
+msgstr "不要删除或重命名此请 - 这是必需的本地搜索引擎优化组合插件工作，另有隐藏！"
+
+#: localseoportfolio.php:356 localseoportfolio.php:624
+#: localseoportfolio.php:647 localseoportfolio.php:4914
+#: localseoportfolio.php:5535
+msgid "Local SEO Portfolio"
+msgstr "本地搜索引擎优化投资组合"
+
+#: localseoportfolio.php:465
+msgid ""
+"You can browse our hierarchical directory below to see who we've worked with "
+"near you. Cities we serve include "
+msgstr "您可以浏览我们下面的层次目录，看看谁，我们与你身边工作过。我们所服务的城市包括："
+
+#: localseoportfolio.php:536
+msgid ""
+"You can browse our hierarchical directory below to see who we've worked with "
+"near you. "
+msgstr "您可以浏览我们下面的层次目录，看看谁，我们与你身边工作过。"
+
+#: localseoportfolio.php:538 localseoportfolio.php:540
+msgid "For "
+msgstr "供"
+
+#: localseoportfolio.php:538 localseoportfolio.php:540
+msgid ", cities we serve include "
+msgstr "，我们所服务的城市包括："
+
+#: localseoportfolio.php:605
+msgid " and "
+msgstr "和"
+
+#: localseoportfolio.php:624
+msgid "Powered by "
+msgstr "供电"
+
+#: localseoportfolio.php:647
+msgid "Local SEO Portfolio Options"
+msgstr "本地搜索引擎优化的投资组合选择"
+
+#: localseoportfolio.php:1975
+msgid "settings saved."
+msgstr "设置保存。"
+
+#: localseoportfolio.php:1980
+msgid "Local SEO Portfolio Settings"
+msgstr "本地搜索引擎优化投资组合设置"
+
+#: localseoportfolio.php:2421 localseoportfolio.php:2427
+#: localseoportfolio.php:2670 localseoportfolio.php:2844
+#: localseoportfolio.php:3007 localseoportfolio.php:3174
+#: localseoportfolio.php:3340 localseoportfolio.php:3506
+#: localseoportfolio.php:3672 localseoportfolio.php:3840
+#: localseoportfolio.php:4004
+msgid "Portfolio"
+msgstr "投资组合"
+
+#: localseoportfolio.php:2421
+msgid "Premium Software Key & Auto-Optimization"
+msgstr "高级软件密钥和自动优化"
+
+#: localseoportfolio.php:2429 localseoportfolio.php:2671
+#: localseoportfolio.php:2846 localseoportfolio.php:3008
+#: localseoportfolio.php:3175 localseoportfolio.php:3341
+#: localseoportfolio.php:3507 localseoportfolio.php:3673
+#: localseoportfolio.php:3841 localseoportfolio.php:4005
+msgid "City (center of service area):"
+msgstr "市（服务区的中心）："
+
+#: localseoportfolio.php:2432 localseoportfolio.php:2674
+#: localseoportfolio.php:2849 localseoportfolio.php:3011
+#: localseoportfolio.php:3178 localseoportfolio.php:3344
+#: localseoportfolio.php:3510 localseoportfolio.php:3676
+#: localseoportfolio.php:3844 localseoportfolio.php:4008
+msgid "State / Province (full state name):"
+msgstr "州/省（全州名）："
+
+#: localseoportfolio.php:2435 localseoportfolio.php:2677
+#: localseoportfolio.php:2852 localseoportfolio.php:3014
+#: localseoportfolio.php:3181 localseoportfolio.php:3347
+#: localseoportfolio.php:3513 localseoportfolio.php:3679
+#: localseoportfolio.php:3847 localseoportfolio.php:4011
+msgid "Key Phrase or Key Word: (the main Service or Product your offer)"
+msgstr "关键短语或关键字：（主要产品或服务的提供）"
+
+#: localseoportfolio.php:2438
+msgid "Radius Served in miles "
+msgstr "半径曾在英里"
+
+#: localseoportfolio.php:2438 localseoportfolio.php:2680
+#: localseoportfolio.php:2855 localseoportfolio.php:3017
+#: localseoportfolio.php:3184 localseoportfolio.php:3350
+#: localseoportfolio.php:3516 localseoportfolio.php:3682
+#: localseoportfolio.php:3850 localseoportfolio.php:4014
+msgid ""
+"(this is a square area with side-to-side diameter equal to roughly twice the "
+"radius)"
+msgstr "（这是具有侧到另一侧的直径的平方面积等于大约两倍的半径）"
+
+#: localseoportfolio.php:2442 localseoportfolio.php:2684
+#: localseoportfolio.php:2859 localseoportfolio.php:3021
+#: localseoportfolio.php:3188 localseoportfolio.php:3354
+#: localseoportfolio.php:3520 localseoportfolio.php:3686
+#: localseoportfolio.php:3854 localseoportfolio.php:4018
+msgid "Intro Text (goes at the top of each city's portfolio page):"
+msgstr "介绍文字（去每个城市的投资组合页面的顶部）："
+
+#: localseoportfolio.php:2443 localseoportfolio.php:2685
+#: localseoportfolio.php:2860 localseoportfolio.php:3022
+#: localseoportfolio.php:3189 localseoportfolio.php:3355
+#: localseoportfolio.php:3521 localseoportfolio.php:3687
+#: localseoportfolio.php:3855 localseoportfolio.php:4019
+msgid "Placeholders of"
+msgstr "的占位符"
+
+#: localseoportfolio.php:2443 localseoportfolio.php:2685
+#: localseoportfolio.php:2860 localseoportfolio.php:3022
+#: localseoportfolio.php:3189 localseoportfolio.php:3355
+#: localseoportfolio.php:3521 localseoportfolio.php:3687
+#: localseoportfolio.php:3855 localseoportfolio.php:4019
+msgid "will be dynamically replaced to match the page the visitor is viewing."
+msgstr "将被动态地替换，以匹配访问者查看的页面。"
+
+#: localseoportfolio.php:2447 localseoportfolio.php:2689
+#: localseoportfolio.php:2864 localseoportfolio.php:3026
+#: localseoportfolio.php:3193 localseoportfolio.php:3359
+#: localseoportfolio.php:3525 localseoportfolio.php:3691
+#: localseoportfolio.php:3859 localseoportfolio.php:4023
+msgid "Only Show Match Cities:"
+msgstr "只显示比赛城市："
+
+#: localseoportfolio.php:2449 localseoportfolio.php:2468
+#: localseoportfolio.php:2503 localseoportfolio.php:2573
+#: localseoportfolio.php:2648 localseoportfolio.php:2656
+#: localseoportfolio.php:2691 localseoportfolio.php:2699
+#: localseoportfolio.php:2778 localseoportfolio.php:2866
+#: localseoportfolio.php:2874 localseoportfolio.php:2947
+#: localseoportfolio.php:3028 localseoportfolio.php:3036
+#: localseoportfolio.php:3114 localseoportfolio.php:3195
+#: localseoportfolio.php:3203 localseoportfolio.php:3280
+#: localseoportfolio.php:3361 localseoportfolio.php:3369
+#: localseoportfolio.php:3447 localseoportfolio.php:3527
+#: localseoportfolio.php:3536 localseoportfolio.php:3615
+#: localseoportfolio.php:3693 localseoportfolio.php:3702
+#: localseoportfolio.php:3781 localseoportfolio.php:3861
+#: localseoportfolio.php:3867 localseoportfolio.php:3945
+#: localseoportfolio.php:4025 localseoportfolio.php:4033
+#: localseoportfolio.php:4112
+msgid "Yes"
+msgstr "对"
+
+#: localseoportfolio.php:2450 localseoportfolio.php:2469
+#: localseoportfolio.php:2504 localseoportfolio.php:2574
+#: localseoportfolio.php:2649 localseoportfolio.php:2657
+#: localseoportfolio.php:2692 localseoportfolio.php:2700
+#: localseoportfolio.php:2779 localseoportfolio.php:2867
+#: localseoportfolio.php:2875 localseoportfolio.php:2948
+#: localseoportfolio.php:3029 localseoportfolio.php:3037
+#: localseoportfolio.php:3115 localseoportfolio.php:3196
+#: localseoportfolio.php:3204 localseoportfolio.php:3281
+#: localseoportfolio.php:3362 localseoportfolio.php:3370
+#: localseoportfolio.php:3448 localseoportfolio.php:3528
+#: localseoportfolio.php:3537 localseoportfolio.php:3616
+#: localseoportfolio.php:3694 localseoportfolio.php:3703
+#: localseoportfolio.php:3782 localseoportfolio.php:3862
+#: localseoportfolio.php:3868 localseoportfolio.php:3946
+#: localseoportfolio.php:4026 localseoportfolio.php:4034
+#: localseoportfolio.php:4113
+msgid "No"
+msgstr "否"
+
+#: localseoportfolio.php:2453
+msgid ""
+"Maximum portfolio city pages to list on footer (total for all portfolios -- "
+"90 is the recommended amount for max SEO boost):"
+msgstr "最大的投资组合城市页面上列出的页脚（总所有投资组合 -  90是推荐量最大的搜索引擎优化提升）："
+
+#: localseoportfolio.php:2466 localseoportfolio.php:2697
+#: localseoportfolio.php:2872 localseoportfolio.php:3034
+#: localseoportfolio.php:3201 localseoportfolio.php:3367
+#: localseoportfolio.php:3534 localseoportfolio.php:3700
+#: localseoportfolio.php:3865 localseoportfolio.php:4031
+msgid "Publish Now?"
+msgstr "现在发布？"
+
+#: localseoportfolio.php:2473 localseoportfolio.php:2475
+msgid "Show Color Options"
+msgstr "显示颜色选项"
+
+#: localseoportfolio.php:2475
+msgid ""
+"You can set the colors for all your portfolio pages below as color names or "
+"hexadecimal codes like #ff0000. It is important to make sure the text shows. "
+"Highlighting a portfolio page's content and your home page's footer is one "
+"way to make sure."
+msgstr "您可以设置颜色下的所有投资组合的网页的颜色名称或十六进制代码如＃FF0000。以确保文本所示是很重要的。突出投资组合页面的内容和你的主页的页脚是一种方式，以确保。"
+
+#: localseoportfolio.php:2477
+msgid "Link Color:"
+msgstr "链接颜色："
+
+#: localseoportfolio.php:2479
+msgid "Text Header Color:"
+msgstr "文本标题颜色："
+
+#: localseoportfolio.php:2481
+msgid "Homepage Footer Links Background Color:"
+msgstr "网页页脚链接背景色："
+
+#: localseoportfolio.php:2490 localseoportfolio.php:2703
+#: localseoportfolio.php:2878 localseoportfolio.php:3040
+#: localseoportfolio.php:3207 localseoportfolio.php:3373
+#: localseoportfolio.php:3540 localseoportfolio.php:3706
+#: localseoportfolio.php:3871 localseoportfolio.php:4044
+msgid "Show Advanced Controls"
+msgstr "显示高级控制"
+
+#: localseoportfolio.php:2497 localseoportfolio.php:2708
+#: localseoportfolio.php:2884 localseoportfolio.php:3046
+#: localseoportfolio.php:3212 localseoportfolio.php:3378
+#: localseoportfolio.php:3546 localseoportfolio.php:3711
+#: localseoportfolio.php:3876 localseoportfolio.php:4042
+msgid "(optional) Key Phrase or Key Word Override SEO Term:"
+msgstr "（可选），关键短语或关键字覆盖SEO期限："
+
+#: localseoportfolio.php:2497 localseoportfolio.php:2708
+#: localseoportfolio.php:2884 localseoportfolio.php:3046
+#: localseoportfolio.php:3212 localseoportfolio.php:3378
+#: localseoportfolio.php:3546 localseoportfolio.php:3711
+#: localseoportfolio.php:3876 localseoportfolio.php:4042
+msgid ""
+"(for the above service keyphrase, optimize its portfolio for this keyphrase "
+"-- for instance, if someone put 'Immigration Law' for the keyphrase above "
+"which is then used for tagging project / client posts, but wanted to SEO "
+"their portfolio for the term 'Immigration Lawyer', they would put "
+"'Immigration Lawyer' below)</font>"
+msgstr "（对于上述服务的关键词，优化其投资组合为这个关键词的 - 例如，如果有人把“移民法”为关键词的上面，然后用于标记项目/客户端的职位，而是希望搜索引擎优化其投资组合的术语“移民律师“，他们会把”移民律师“下面）</ FONT>"
+
+#: localseoportfolio.php:2501
+msgid "Show the footer links to your portfolio pages on all pages?"
+msgstr "显示页脚链接到你的投资组合的网页的所有网页上？"
+
+#: localseoportfolio.php:2507 localseoportfolio.php:2713
+#: localseoportfolio.php:3050 localseoportfolio.php:3217
+#: localseoportfolio.php:3383 localseoportfolio.php:3716
+#: localseoportfolio.php:3880 localseoportfolio.php:4046
+msgid ""
+"Up to how far away should we show projects / clients on a city's portfolio "
+"page "
+msgstr "截至多远，我们应该表现出一个城市的投资组合页面上的项目/客户端"
+
+#: localseoportfolio.php:2509 localseoportfolio.php:2715
+#: localseoportfolio.php:3052 localseoportfolio.php:3219
+#: localseoportfolio.php:3385 localseoportfolio.php:3718
+#: localseoportfolio.php:3882 localseoportfolio.php:4048
+msgid "auto-handle this (recommended)"
+msgstr "自动处理这个（推荐）"
+
+#: localseoportfolio.php:2516 localseoportfolio.php:2722
+#: localseoportfolio.php:3059 localseoportfolio.php:3226
+#: localseoportfolio.php:3392 localseoportfolio.php:3725
+#: localseoportfolio.php:3889 localseoportfolio.php:4055
+msgid "(only shows same-city matches)"
+msgstr "（只显示同一个城市的匹配）"
+
+#: localseoportfolio.php:2522 localseoportfolio.php:2727
+#: localseoportfolio.php:2757 localseoportfolio.php:2887
+#: localseoportfolio.php:2902 localseoportfolio.php:3064
+#: localseoportfolio.php:3094 localseoportfolio.php:3231
+#: localseoportfolio.php:3397 localseoportfolio.php:3550
+#: localseoportfolio.php:3565 localseoportfolio.php:3730
+#: localseoportfolio.php:3894 localseoportfolio.php:4060
+msgid "Portfolio Type / Set Coverage:"
+msgstr "组合类型/设置范围："
+
+#: localseoportfolio.php:2524 localseoportfolio.php:2729
+#: localseoportfolio.php:2759 localseoportfolio.php:2889
+#: localseoportfolio.php:2904 localseoportfolio.php:3066
+#: localseoportfolio.php:3096 localseoportfolio.php:3233
+#: localseoportfolio.php:3399 localseoportfolio.php:3552
+#: localseoportfolio.php:3567 localseoportfolio.php:3732
+#: localseoportfolio.php:3896 localseoportfolio.php:4062
+msgid "Local"
+msgstr "地方性"
+
+#: localseoportfolio.php:2525 localseoportfolio.php:2760
+#: localseoportfolio.php:2890 localseoportfolio.php:3097
+#: localseoportfolio.php:3234 localseoportfolio.php:3400
+#: localseoportfolio.php:3553 localseoportfolio.php:3568
+#: localseoportfolio.php:3733 localseoportfolio.php:3897
+#: localseoportfolio.php:4063
+msgid "Local (Only Cities I Have Clients In)"
+msgstr "当地（城市只有我有客户）"
+
+#: localseoportfolio.php:2526 localseoportfolio.php:2761
+#: localseoportfolio.php:2891 localseoportfolio.php:3098
+#: localseoportfolio.php:3235 localseoportfolio.php:3401
+#: localseoportfolio.php:3554 localseoportfolio.php:3569
+#: localseoportfolio.php:3734 localseoportfolio.php:3898
+#: localseoportfolio.php:4064
+msgid "National (Even Coverage)"
+msgstr "国家（甚至覆盖）"
+
+#: localseoportfolio.php:2527 localseoportfolio.php:2762
+#: localseoportfolio.php:2892 localseoportfolio.php:3099
+#: localseoportfolio.php:3236 localseoportfolio.php:3402
+#: localseoportfolio.php:3555 localseoportfolio.php:3570
+#: localseoportfolio.php:3735 localseoportfolio.php:3899
+#: localseoportfolio.php:4065
+msgid "National (Only States I Have Clients In)"
+msgstr "国家（只有国家我有客户）"
+
+#: localseoportfolio.php:2528 localseoportfolio.php:2763
+#: localseoportfolio.php:2893 localseoportfolio.php:3100
+#: localseoportfolio.php:3237 localseoportfolio.php:3403
+#: localseoportfolio.php:3556 localseoportfolio.php:3571
+#: localseoportfolio.php:3736 localseoportfolio.php:3900
+#: localseoportfolio.php:4066
+msgid "National (Only Cities I Have Clients In)"
+msgstr "国家（城市只有我有客户）"
+
+#: localseoportfolio.php:2529 localseoportfolio.php:2764
+#: localseoportfolio.php:2894 localseoportfolio.php:3101
+#: localseoportfolio.php:3238 localseoportfolio.php:3404
+#: localseoportfolio.php:3557 localseoportfolio.php:3572
+#: localseoportfolio.php:3737 localseoportfolio.php:3901
+#: localseoportfolio.php:4067
+msgid "International (Even Coverage)"
+msgstr "国际（即使覆盖）"
+
+#: localseoportfolio.php:2530 localseoportfolio.php:2765
+#: localseoportfolio.php:2895 localseoportfolio.php:3102
+#: localseoportfolio.php:3239 localseoportfolio.php:3405
+#: localseoportfolio.php:3558 localseoportfolio.php:3573
+#: localseoportfolio.php:3738 localseoportfolio.php:3902
+#: localseoportfolio.php:4068
+msgid "International (Only Countries I Have Clients In)"
+msgstr "国际（仅国家我有客户）"
+
+#: localseoportfolio.php:2531 localseoportfolio.php:2766
+#: localseoportfolio.php:2896 localseoportfolio.php:3103
+#: localseoportfolio.php:3240 localseoportfolio.php:3406
+#: localseoportfolio.php:3559 localseoportfolio.php:3574
+#: localseoportfolio.php:3739 localseoportfolio.php:3903
+#: localseoportfolio.php:4069
+msgid "International (Only States I Have Clients In)"
+msgstr "国际（仅美国我有客户在）"
+
+#: localseoportfolio.php:2532 localseoportfolio.php:2767
+#: localseoportfolio.php:2897 localseoportfolio.php:3104
+#: localseoportfolio.php:3241 localseoportfolio.php:3407
+#: localseoportfolio.php:3560 localseoportfolio.php:3575
+#: localseoportfolio.php:3740 localseoportfolio.php:3904
+#: localseoportfolio.php:4070
+msgid "International (Only Cities I Have Clients In)"
+msgstr "国际（仅城市我有客户）"
+
+#: localseoportfolio.php:2537 localseoportfolio.php:2736
+#: localseoportfolio.php:2911 localseoportfolio.php:3073
+#: localseoportfolio.php:3246 localseoportfolio.php:3412
+#: localseoportfolio.php:3580 localseoportfolio.php:3745
+#: localseoportfolio.php:3909 localseoportfolio.php:4077
+msgid "Exclude Cities:"
+msgstr "排除城市："
+
+#: localseoportfolio.php:2540 localseoportfolio.php:2739
+#: localseoportfolio.php:2914 localseoportfolio.php:3076
+#: localseoportfolio.php:3249 localseoportfolio.php:3415
+#: localseoportfolio.php:3583 localseoportfolio.php:3748
+#: localseoportfolio.php:3912 localseoportfolio.php:4080
+msgid "Add Cities:"
+msgstr "添加城市："
+
+#: localseoportfolio.php:2543 localseoportfolio.php:2742
+#: localseoportfolio.php:2917 localseoportfolio.php:3079
+#: localseoportfolio.php:3252 localseoportfolio.php:3418
+#: localseoportfolio.php:3586 localseoportfolio.php:3751
+#: localseoportfolio.php:3915 localseoportfolio.php:4083
+msgid "Use Abbreviations Instead:"
+msgstr "使用缩写代替："
+
+#: localseoportfolio.php:2546 localseoportfolio.php:2745
+#: localseoportfolio.php:2920 localseoportfolio.php:3082
+#: localseoportfolio.php:3255 localseoportfolio.php:3421
+#: localseoportfolio.php:3589 localseoportfolio.php:3754
+#: localseoportfolio.php:3918 localseoportfolio.php:4086
+msgid "Exclude States:"
+msgstr "排除国家："
+
+#: localseoportfolio.php:2549 localseoportfolio.php:2748
+#: localseoportfolio.php:2923 localseoportfolio.php:3085
+#: localseoportfolio.php:3258 localseoportfolio.php:3424
+#: localseoportfolio.php:3592 localseoportfolio.php:3757
+#: localseoportfolio.php:3921 localseoportfolio.php:4089
+msgid "Add States:"
+msgstr "加入国："
+
+#: localseoportfolio.php:2552 localseoportfolio.php:2751
+#: localseoportfolio.php:2926 localseoportfolio.php:3088
+#: localseoportfolio.php:3261 localseoportfolio.php:3427
+#: localseoportfolio.php:3595 localseoportfolio.php:3760
+#: localseoportfolio.php:3924 localseoportfolio.php:4092
+msgid "Exclude Countries:"
+msgstr "排除国家："
+
+#: localseoportfolio.php:2553 localseoportfolio.php:2556
+#: localseoportfolio.php:2752 localseoportfolio.php:2755
+#: localseoportfolio.php:2927 localseoportfolio.php:2930
+#: localseoportfolio.php:3089 localseoportfolio.php:3092
+#: localseoportfolio.php:3262 localseoportfolio.php:3265
+#: localseoportfolio.php:3428 localseoportfolio.php:3431
+#: localseoportfolio.php:3596 localseoportfolio.php:3599
+#: localseoportfolio.php:3761 localseoportfolio.php:3764
+#: localseoportfolio.php:3925 localseoportfolio.php:3928
+#: localseoportfolio.php:4093 localseoportfolio.php:4096
+msgid "English 2 letter country code(s), comma separate multiple"
+msgstr "英国2字母的国家代码（S），逗号分隔多个"
+
+#: localseoportfolio.php:2555 localseoportfolio.php:2754
+#: localseoportfolio.php:2929 localseoportfolio.php:3091
+#: localseoportfolio.php:3264 localseoportfolio.php:3430
+#: localseoportfolio.php:3598 localseoportfolio.php:3763
+#: localseoportfolio.php:3927 localseoportfolio.php:4095
+msgid "Only These Countries:"
+msgstr "只有这些国家："
+
+#: localseoportfolio.php:2558 localseoportfolio.php:2932
+#: localseoportfolio.php:3267 localseoportfolio.php:3433
+#: localseoportfolio.php:3601 localseoportfolio.php:3766
+#: localseoportfolio.php:3930 localseoportfolio.php:4098
+msgid "Project / Client Entry Headlines:"
+msgstr "项目/客户端条目标题："
+
+#: localseoportfolio.php:2560 localseoportfolio.php:2934
+#: localseoportfolio.php:3269 localseoportfolio.php:3435
+#: localseoportfolio.php:3603 localseoportfolio.php:3768
+#: localseoportfolio.php:3932 localseoportfolio.php:4100
+msgid "Use Location + Service/Product Tags Used"
+msgstr "使用使用的位置+服务/产品标签"
+
+#: localseoportfolio.php:2561 localseoportfolio.php:2935
+#: localseoportfolio.php:3270 localseoportfolio.php:3436
+#: localseoportfolio.php:3604 localseoportfolio.php:3769
+#: localseoportfolio.php:3933 localseoportfolio.php:4101
+msgid "Use The Title I Set"
+msgstr "使用标题我设置"
+
+#: localseoportfolio.php:2562 localseoportfolio.php:2936
+#: localseoportfolio.php:3271 localseoportfolio.php:3437
+#: localseoportfolio.php:3605 localseoportfolio.php:3770
+#: localseoportfolio.php:3934 localseoportfolio.php:4102
+msgid "No Headlines"
+msgstr "无标题"
+
+#: localseoportfolio.php:2571 localseoportfolio.php:2776
+#: localseoportfolio.php:2945 localseoportfolio.php:3112
+#: localseoportfolio.php:3278 localseoportfolio.php:3445
+#: localseoportfolio.php:3613 localseoportfolio.php:3779
+#: localseoportfolio.php:3943 localseoportfolio.php:4110
+msgid ""
+"Use smart settings? (requires premium version key -- helps to optimally rank "
+"your directory pages and avoid the not ranking, supplemental index -- "
+"https://en.wikipedia.org/wiki/Supplemental_Result)"
+msgstr "使用智能设置？ （需要高级版本的关键 - 有助于优化排名您的目录页，避免不居，补充索引 -  https://en.wikipedia.org/wiki/Supplemental_Result）"
+
+#: localseoportfolio.php:2577 localseoportfolio.php:2782
+#: localseoportfolio.php:2951 localseoportfolio.php:3118
+#: localseoportfolio.php:3284 localseoportfolio.php:3451
+#: localseoportfolio.php:3619 localseoportfolio.php:3785
+#: localseoportfolio.php:3949 localseoportfolio.php:4116
+msgid "Local Area Percent Focus"
+msgstr "本地百分比焦点"
+
+#: localseoportfolio.php:2582 localseoportfolio.php:2786
+#: localseoportfolio.php:2956 localseoportfolio.php:3123
+#: localseoportfolio.php:3289 localseoportfolio.php:3455
+#: localseoportfolio.php:3622 localseoportfolio.php:3790
+#: localseoportfolio.php:3954 localseoportfolio.php:4121
+msgid "Home Country Percent Focus"
+msgstr "祖国百分比焦点"
+
+#: localseoportfolio.php:2586 localseoportfolio.php:2790
+#: localseoportfolio.php:2961 localseoportfolio.php:3127
+#: localseoportfolio.php:3293 localseoportfolio.php:3460
+#: localseoportfolio.php:3626 localseoportfolio.php:3794
+#: localseoportfolio.php:3958 localseoportfolio.php:4125
+msgid "International Percent Focus"
+msgstr "国际百分比焦点"
+
+#: localseoportfolio.php:2590 localseoportfolio.php:2798
+#: localseoportfolio.php:2965 localseoportfolio.php:3131
+#: localseoportfolio.php:3297 localseoportfolio.php:3464
+#: localseoportfolio.php:3629 localseoportfolio.php:3798
+#: localseoportfolio.php:3961 localseoportfolio.php:4129
+msgid ""
+"The options below can help get more portfolio pages to rank. Alternatively, "
+"our premium version is going to be able to automatically and intelligently "
+"set these for you"
+msgstr "下面的选项可帮助获得更多的投资组合页面排名。可替代地，我们的高级版本将是能够自动智能地设置这些为您"
+
+#: localseoportfolio.php:2592 localseoportfolio.php:2799
+#: localseoportfolio.php:2966 localseoportfolio.php:3132
+#: localseoportfolio.php:3298 localseoportfolio.php:3465
+#: localseoportfolio.php:3630 localseoportfolio.php:3799
+#: localseoportfolio.php:3962 localseoportfolio.php:4130
+msgid ""
+"Local Set City Population Minimum (for getting it's own portfolio page):"
+msgstr "当地设市人口最少（为获得它自己的投资组合页面）："
+
+#: localseoportfolio.php:2595 localseoportfolio.php:2802
+#: localseoportfolio.php:2969 localseoportfolio.php:3135
+#: localseoportfolio.php:3301 localseoportfolio.php:3468
+#: localseoportfolio.php:3633 localseoportfolio.php:3802
+#: localseoportfolio.php:3965 localseoportfolio.php:4133
+msgid ""
+"National Set City Population Minimum (for getting it's own portfolio page)"
+msgstr "全国设市人口最少（为获得它自己的投资组合页面）"
+
+#: localseoportfolio.php:2598 localseoportfolio.php:2805
+#: localseoportfolio.php:2972 localseoportfolio.php:3138
+#: localseoportfolio.php:3304 localseoportfolio.php:3471
+#: localseoportfolio.php:3636 localseoportfolio.php:3805
+#: localseoportfolio.php:3968 localseoportfolio.php:4136
+msgid ""
+"International Set City Population Minimum (for getting it's own portfolio "
+"page):"
+msgstr "国际设市人口最少（为获得它自己的投资组合页面）："
+
+#: localseoportfolio.php:2602 localseoportfolio.php:2810
+#: localseoportfolio.php:2976 localseoportfolio.php:3142
+#: localseoportfolio.php:3309 localseoportfolio.php:3476
+#: localseoportfolio.php:3641 localseoportfolio.php:3809
+#: localseoportfolio.php:3972 localseoportfolio.php:4141
+msgid ""
+"Local Set City Population Maximum (for getting it's own portfolio page):"
+msgstr "当地设市人口最大（为获得它自己的投资组合页面）："
+
+#: localseoportfolio.php:2605 localseoportfolio.php:2813
+#: localseoportfolio.php:2979 localseoportfolio.php:3145
+#: localseoportfolio.php:3312 localseoportfolio.php:3479
+#: localseoportfolio.php:3644 localseoportfolio.php:3812
+#: localseoportfolio.php:3975 localseoportfolio.php:4144
+msgid ""
+"National Set City Population Maximum (for getting it's own portfolio page)"
+msgstr "全国设市人口最大（为获得它自己的投资组合页面）"
+
+#: localseoportfolio.php:2608 localseoportfolio.php:2816
+#: localseoportfolio.php:2982 localseoportfolio.php:3148
+#: localseoportfolio.php:3315 localseoportfolio.php:3482
+#: localseoportfolio.php:3647 localseoportfolio.php:3815
+#: localseoportfolio.php:3978 localseoportfolio.php:4147
+msgid ""
+"International Set City Population Maximum (for getting it's own portfolio "
+"page):"
+msgstr "国际设市人口最大（为获得它自己的投资组合页面）："
+
+#: localseoportfolio.php:2622 localseoportfolio.php:2825
+#: localseoportfolio.php:2990 localseoportfolio.php:3156
+#: localseoportfolio.php:3323 localseoportfolio.php:3489
+#: localseoportfolio.php:3654 localseoportfolio.php:3822
+#: localseoportfolio.php:3986 localseoportfolio.php:4156
+msgid "Upgrade to Premium at LocalSEOPortfolio.com"
+msgstr "升级到高级版在LocalSEOPortfolio.com"
+
+#: localseoportfolio.php:2622 localseoportfolio.php:2825
+#: localseoportfolio.php:2990 localseoportfolio.php:3156
+#: localseoportfolio.php:3323 localseoportfolio.php:3489
+#: localseoportfolio.php:3654 localseoportfolio.php:3822
+#: localseoportfolio.php:3986 localseoportfolio.php:4156
+msgid "to unlock these features that let you"
+msgstr "解锁这些功能，让你"
+
+#: localseoportfolio.php:2625 localseoportfolio.php:2828
+#: localseoportfolio.php:2993 localseoportfolio.php:3159
+#: localseoportfolio.php:3326 localseoportfolio.php:3492
+#: localseoportfolio.php:3657 localseoportfolio.php:3825
+#: localseoportfolio.php:3989 localseoportfolio.php:4159
+msgid "Rank in a broader area or nationally"
+msgstr "排名在更广泛的区域或国家"
+
+#: localseoportfolio.php:2626 localseoportfolio.php:2829
+#: localseoportfolio.php:2994 localseoportfolio.php:3160
+#: localseoportfolio.php:3327 localseoportfolio.php:3493
+#: localseoportfolio.php:3658 localseoportfolio.php:3826
+#: localseoportfolio.php:3990 localseoportfolio.php:4160
+msgid ""
+"Increase the free visitors to your portfolio from search engines cap beyond "
+"100 per month"
+msgstr "增加可用游客到你的投资组合从搜索引擎罩超过100元不等"
+
+#: localseoportfolio.php:2627 localseoportfolio.php:2830
+#: localseoportfolio.php:2995 localseoportfolio.php:3161
+#: localseoportfolio.php:3328 localseoportfolio.php:3494
+#: localseoportfolio.php:3659 localseoportfolio.php:3827
+#: localseoportfolio.php:3991 localseoportfolio.php:4161
+msgid ""
+"Intelligently set / auto-set population lower-limits for cities (try to rank "
+"for too many cities and your pages can end up in Google"
+msgstr "智能设置/自动设定较低的人群，限制城市（尽量排过很多城市，你的网页可以结束了在谷歌"
+
+#: localseoportfolio.php:2628 localseoportfolio.php:2831
+#: localseoportfolio.php:2996 localseoportfolio.php:3162
+#: localseoportfolio.php:3329 localseoportfolio.php:3495
+#: localseoportfolio.php:3660 localseoportfolio.php:3828
+#: localseoportfolio.php:3992 localseoportfolio.php:4162
+msgid "Specify which cities are most important to you to rank for"
+msgstr "指定哪些城市是最重要的，你的排名"
+
+#: localseoportfolio.php:2629 localseoportfolio.php:2831
+#: localseoportfolio.php:2996 localseoportfolio.php:3162
+#: localseoportfolio.php:3329 localseoportfolio.php:3495
+#: localseoportfolio.php:3660 localseoportfolio.php:3828
+#: localseoportfolio.php:3992 localseoportfolio.php:4162
+msgid ""
+"Optionally have multiple portfolios which can help you to rank strongly for "
+"more than one term"
+msgstr "可选择有多种组合，它可以帮助你强排名超过一个任期"
+
+#: localseoportfolio.php:2630 localseoportfolio.php:2832
+#: localseoportfolio.php:2997 localseoportfolio.php:3163
+#: localseoportfolio.php:3330 localseoportfolio.php:3496
+#: localseoportfolio.php:3661 localseoportfolio.php:3829
+#: localseoportfolio.php:3993 localseoportfolio.php:4163
+msgid "Add or exclude specific cities"
+msgstr "添加或排除特定的城市"
+
+#: localseoportfolio.php:2631 localseoportfolio.php:2833
+#: localseoportfolio.php:2998 localseoportfolio.php:3164
+#: localseoportfolio.php:3331 localseoportfolio.php:3497
+#: localseoportfolio.php:3662 localseoportfolio.php:3830
+#: localseoportfolio.php:3994 localseoportfolio.php:4164
+msgid "Add or exclude specific states"
+msgstr "添加或排除特定状态"
+
+#: localseoportfolio.php:2632 localseoportfolio.php:2834
+#: localseoportfolio.php:2999 localseoportfolio.php:3165
+#: localseoportfolio.php:3332 localseoportfolio.php:3498
+#: localseoportfolio.php:3663 localseoportfolio.php:3831
+#: localseoportfolio.php:3995 localseoportfolio.php:4165
+msgid "Add or exclude specific countries"
+msgstr "添加或删除特定国家"
+
+#: localseoportfolio.php:2643
+msgid ""
+"Your Premium Key (enables premium features and settings auto-optimization):"
+msgstr "您的保费密钥（带来卓越的功能和设置自动优化）："
+
+#: localseoportfolio.php:2646
+msgid ""
+"Enable Advanced Settings Auto-Optimization When I Have a Valid Premium Key?:"
+msgstr "启用高级设置自动优化时，我有一个有效的高级钥匙？："
+
+#: localseoportfolio.php:2654
+msgid "Hide the attribution footer links?"
+msgstr "隐藏归属页脚链接？"
+
+#: localseoportfolio.php:2662
+msgid ""
+"Your Site's Moz Rank (used to auto-adjust settings, findable at http://"
+"opensiteexplorer.org):"
+msgstr "您的网站的排名万盎司（用于自动调整设置，玛丽萨在http://opensiteexplorer.org）："
+
+#: localseoportfolio.php:2680 localseoportfolio.php:2855
+#: localseoportfolio.php:3017 localseoportfolio.php:3184
+#: localseoportfolio.php:3350 localseoportfolio.php:3516
+#: localseoportfolio.php:3682 localseoportfolio.php:3850
+#: localseoportfolio.php:4014
+msgid "Radius Served in miles"
+msgstr "半径曾在英里"
+
+#: localseoportfolio.php:4184 localseoportfolio.php:4190
+#: localseoportfolio.php:4196 localseoportfolio.php:4202
+#: localseoportfolio.php:4208 localseoportfolio.php:4214
+#: localseoportfolio.php:4220 localseoportfolio.php:4226
+#: localseoportfolio.php:4232 localseoportfolio.php:4238
+msgid "We offer "
+msgstr "我们提供"
+
+#: localseoportfolio.php:4184 localseoportfolio.php:4190
+#: localseoportfolio.php:4196 localseoportfolio.php:4202
+#: localseoportfolio.php:4208 localseoportfolio.php:4214
+#: localseoportfolio.php:4220 localseoportfolio.php:4226
+#: localseoportfolio.php:4232 localseoportfolio.php:4238
+msgid " services for "
+msgstr "为服务"
+
+#: localseoportfolio.php:4184 localseoportfolio.php:4190
+#: localseoportfolio.php:4196 localseoportfolio.php:4202
+#: localseoportfolio.php:4208 localseoportfolio.php:4214
+#: localseoportfolio.php:4220 localseoportfolio.php:4226
+#: localseoportfolio.php:4232 localseoportfolio.php:4238
+msgid ""
+". You can see who we have worked with around there below. Please contact us "
+"if you have any questions."
+msgstr "。你可以看到谁我们下面工作围绕那里。请联系我们，如果您有任何问题。"
+
+#: localseoportfolio.php:4915
+msgid "Project / Client"
+msgstr "项目/客户端"
+
+#: localseoportfolio.php:4917
+msgid "All Projects / Clients"
+msgstr "所有项目/客户端"
+
+#: localseoportfolio.php:4918
+msgid "Add a Project / Client"
+msgstr "新增项目/客户端"
+
+#: localseoportfolio.php:4919
+msgid "Add New Project / Client"
+msgstr "添加新项目/客户端"
+
+#: localseoportfolio.php:4920
+msgid "Edit"
+msgstr "编辑"
+
+#: localseoportfolio.php:4921
+msgid "Edit Project / Client"
+msgstr "编辑项目/客户端"
+
+#: localseoportfolio.php:4922
+msgid "New Project / Client"
+msgstr "新项目/客户端"
+
+#: localseoportfolio.php:4923
+msgid "View"
+msgstr "查看"
+
+#: localseoportfolio.php:4924
+msgid "View Project / Client"
+msgstr "查看项目/客户端"
+
+#: localseoportfolio.php:4925
+msgid "Search Projects / Clients"
+msgstr "搜索项目/客户端"
+
+#: localseoportfolio.php:4926
+msgid "No Projects / Clients"
+msgstr "没有项目/客户端"
+
+#: localseoportfolio.php:4927
+msgid "No Projects / Clients Items Found in Trash"
+msgstr "没有项目/客户项目在垃圾桶找到"
+
+#: localseoportfolio.php:4928
+msgid "Parent Project / Client"
+msgstr "父项目/客户端"
+
+#: localseoportfolio.php:4933
+msgid "Add your projects / clients here"
+msgstr "添加您的项目/客户在这里"
+
+#: localseoportfolio.php:4953
+msgid "Project / Client Details"
+msgstr "项目/客户端详细信息"
+
+#: localseoportfolio.php:4971
+msgid "City"
+msgstr "都市"
+
+#: localseoportfolio.php:4975
+msgid "State / Province (full state name)"
+msgstr "州/省（全州名）"
+
+#: localseoportfolio.php:4984
+msgid ""
+"Services Used (separate with commas if multiple (with the , symbol) -- at "
+"least one should match a portfolio's Key Phrase so it shows)"
+msgstr "服务使用（用逗号分隔如果多个（与，符号） - 至少一个应该与投资组合的关键短语，使其显示）"
+
+#: localseoportfolio.php:4988
+msgid "Industry"
+msgstr "行业"
+
+#: localseoportfolio.php:4992
+msgid "Client Name"
+msgstr "客户端名称"
+
+#: localseoportfolio.php:4996
+msgid "Their Testimonial"
+msgstr "他们的证言"
+
+#: localseoportfolio.php:5000
+msgid "Their Phone Number"
+msgstr "他们的电话号码"
+
+#: localseoportfolio.php:5004
+msgid "Their Website"
+msgstr "他们的网站"
+
+#: localseoportfolio.php:5018
+msgid "Client Name / Project Title"
+msgstr "客户名称/项目名称"
+
+#: localseoportfolio.php:5389
+msgid ", "
+msgstr "，"
+
+#: localseoportfolio.php:5390
+msgid " near "
+msgstr "近"
+
+#: localseoportfolio.php:5424
+msgid "Client Name: "
+msgstr "客户名称："
+
+#: localseoportfolio.php:5425
+msgid "Description: "
+msgstr "说明："
+
+#: localseoportfolio.php:5426
+msgid "City: "
+msgstr "城市："
+
+#: localseoportfolio.php:5427
+msgid "State: "
+msgstr "国家："
+
+#: localseoportfolio.php:5429
+msgid "Services Used: "
+msgstr "服务使用："
+
+#: localseoportfolio.php:5430
+msgid "Industry: "
+msgstr "行业："
+
+#: localseoportfolio.php:5431
+msgid "Testimonial: "
+msgstr "推荐："
+
+#: localseoportfolio.php:5432
+msgid "Client Phone Number: "
+msgstr "客户电话号码："
+
+#: localseoportfolio.php:5435
+msgid "Client Website: "
+msgstr "客户网站："
+
+#: localseoportfolio.php:5448
+msgid "Our portfolio for this is currently under construction."
+msgstr "我们的产品组合，这是正在建设中。"
+
+#: localseoportfolio.php:5495
+msgid "Other portfolio sections for our work which we've done near "
+msgstr "其他投资组合的部分为我们的工作，我们已经接近完成"
+
+#: localseoportfolio.php:5495
+msgid " include "
+msgstr "包括"
+
+#: localseoportfolio.php:5535
+msgid "This account has reached its pageview request limit with "
+msgstr "此帐户已达到浏览量要求极限"
+
